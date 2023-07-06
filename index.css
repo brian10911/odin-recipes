@@ -3,7 +3,7 @@ body{
 }
 img{
   height: auto;
-  width: 2000px;
+  width: auto;
 }
 h1{
   font-size: 64px;
@@ -15,5 +15,6 @@ h2{
 }
 ul{
   font-size: 16px;
+  line-height: 1.5;
 }
  
