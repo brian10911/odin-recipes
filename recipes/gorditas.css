@@ -2,22 +2,22 @@
   line-height: 1.5;
 }
 .recipe-name{
-  font-size: 64px
+  font-size: 64px;
   text-align: center;
 }
 .description{
-  font-size: 32px
+  font-size: 32px;
   text-align: left;
 }
 .ingredients{
-  font-size: 16px
+  font-size: 16px;
   font-weight: bold;
 }
 .lists{
-  font-size: 16px
+  font-size: 16px;
   text-align: left;
 }
 .steps{
-  font-size: 16px
+  font-size: 16px;
   font-weight: bold;
 }
