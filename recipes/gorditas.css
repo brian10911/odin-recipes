@@ -1,6 +1,9 @@
 *{
   line-height: 1.5;
 }
+body{
+  width: 400px;
+  text-align: center;
 h1{
   font-size: 64px;
   text-align: center;
